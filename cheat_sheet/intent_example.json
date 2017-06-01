@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "GET_FUEL_LEVEL",
+      "slots" : [
+        {
+          "name": "IS_ALTERNATIVE",
+          "type": "IS_ALTERNATIVE"
+        }
+      ]
+    }
+  ]
+}
